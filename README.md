@@ -1,7 +1,7 @@
-TUTORIALES-JAVA-PHP-MYSQL
+TESTING GIT DOCUMENTATION
 =========================
 
-Repositorio de la serie de Tutoriales [JAVA-PHP-MYSQL][2] de [Geeky Theory][3] creados por [Alejandro Esquiva][1]
+Repositorio de la serie de Tutoriales 
 
 Esta serie de tutoriales se va a componer de 6 tutoriales:
 <ul>
@@ -32,16 +32,6 @@ Los objetivos que nos proponemos con esta serie de tutoriales son los siguientes
 Aprender a crear una base de datos en MySQL<br>
 <ul><li>PHP</li></ul>
 
-Aprender a insertar datos en nuestra base de datos<br>
-Aprender a mostrar datos de nuestra base de datos<br>
-Consolidar los conocimientos aprendidos en la serie de tutoriales JSON<br>
-Mostrar los datos introducidos en la base de datos en pantalla<br>
-<ul><li>JAVA</li></ul>
-
-Crear JSON a partir de los datos introducidos por el usuario<br>
-Enviar JSON vía GET en JAVA<br>
-Enviar JSON vía POST en JAVA<br>
-Obtener un JSON generado en PHP<br>
 
 Los tutoriales se encuentran en @GeekyTheory en el siguiente enlace:
 
